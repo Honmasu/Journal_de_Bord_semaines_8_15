@@ -2,7 +2,7 @@
 ## Rétrospective de la présentation 2
 
 ### Points forts 
-selon moi je trouve que mes édites était très bien et j'ai dû m'ajuster car ma souris ne se montrait pas.
+selon moi je trouve que mes édites étaient très bien et j'ai dû m'ajuster car ma souris ne se montrait pas.
 
 ### Points à améliorer
 sans doute un des points que je dois améliorer est l'utilisation d'Obs car j'ai rencontré plusieurs difficultés surtout avec l'apparition de ma souris lors de l'enregistrement (j'ai trouvé pourquoi elle se montrait pas). Ensuite je dois travailler sur ma communication car je trouve que je n'étais pas assez fluid pour améliorer cela il me faut de la pratique.  
