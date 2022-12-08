@@ -17,7 +17,10 @@ Le scénarinage est le debut de l'histoire ou on voit le personnage principale d
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis.
+Voici des croquis de certain endroits ou ce déroule l'histoire.
 ![image](https://user-images.githubusercontent.com/112128372/206541434-5476d837-261d-4ad4-a1cf-be3ec88b4f78.png)
+![image](https://user-images.githubusercontent.com/112128372/206541592-86ffb708-2af1-4c24-bf0c-889889319406.png)
+
 
 
 ### Technologies
