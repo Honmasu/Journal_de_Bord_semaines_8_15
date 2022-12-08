@@ -8,7 +8,7 @@ Une histoire qui porte sur les desicions du lecteur/joueur.
 
 ### Description du projet 
 
-Les joueur suive l'histoire de Hirose Takayuki un Journaliste/detectif qui s'avance dans plusieur avanture comme des meutres et autre.Chaque descisions prises par les joueur affecterons le cours de l'histoire ce qui peut créer plusieur multiverse de l'histoire.
+Les joueurs suive l'histoire d'Hirose Takayuki un journaliste/detectif qui s'avance dans plusieurs aventure comme des meutres et autre. Chaque descisions prises par les joueurs affecterons le cours de l'histoire ce qui peut créer plusieur multiverse de celle-ci.
 
 ### Schéma du projet ou scénarimage
 
@@ -33,8 +33,8 @@ concept de l'art
 Ingénieur de logiciel
 Programmation
 Animation 2D
-création d'êffet visuel
-création d'effêt sonore
+création d'effet visuel
+création d'effet sonore
 création de musique
-gestion de projet
+gestion du projet
 Testeur
